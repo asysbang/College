@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">大学</string>
+    <string name="home_exam">考试题库</string>
+    <string name="home_market">校园市场</string>
+    <string name="home_food">周边美食</string>
+    <string name="home_chat">新闻八卦</string>
 </resources>

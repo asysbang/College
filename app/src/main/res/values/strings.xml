@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">College</string>
+    <string name="home_exam">Examination</string>
+    <string name="home_market">Market</string>
+    <string name="home_food">Food</string>
+    <string name="home_chat">Chat</string>
 </resources>
